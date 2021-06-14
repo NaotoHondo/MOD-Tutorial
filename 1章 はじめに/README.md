@@ -2,17 +2,17 @@
   
 ## この章でやること 
 
-この章は、MOD製作の全体像をつかむことを目的としています。
-作業番号1-1では**AssettoCorsa Content Manager**、**MOD**の導入を行います。
-作業番号1-2ではMODデータのフォルダ構造とその内容の説明を行います。
-作業番号1-3ではこのチュートリアルで使うすべてのソフトを一覧で紹介しています．
+この章は、MOD製作の全体像をつかむことを目的としています。  
+作業番号1-1では**AssettoCorsa**、**ContentManager**、**MOD**の導入を行います。  
+作業番号1-2ではMODデータのフォルダ構造とその内容の説明を行います。  
+作業番号1-3ではこのチュートリアルで使うすべてのソフトを一覧で紹介しています．  
 
 ## この章で使うソフト一覧
 | ソフト | 機能 | 作業番号 |
 ----|---- |---- 
-| Solidworks | 車両の設計 | n-m |
-| GIMP | テクスチャ用画像データの作成 | n'-m' |
-| ○○ | ○○ | n''-m'' |
+| AssetoCorsa | シミュレータソフト | 1-1 |
+| ContentManager | AssettoCorsaの高機能版 | 1-1 |
+
 
 ## 目次
 ### [1-1 AssettoCorsaとContentManagerの導入](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/1%E7%AB%A0%20%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/1-1%20AssettoCorsa%E3%81%A8ContentManager%E3%81%AE%E5%B0%8E%E5%85%A5.md)
