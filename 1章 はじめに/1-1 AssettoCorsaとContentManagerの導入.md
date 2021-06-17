@@ -1,15 +1,3 @@
-# FSAEJ-simulator
-Assetto Corsaで使用できる学生フォーミュラ日本大会のMODです．パッケージにはTUAT Formula 2020年度車両(NK16_ICV)と2019年度エンデュランスコース(FSAEJ_Endurance)が含まれています．また，InvalidateLap appを用いることでパイロンタッチの回数をカウントすることが可能です.  
-
-
-![Screenshot_nk16_icv_fsaej_endurance_26-2-121-15-5-39](https://user-images.githubusercontent.com/81402033/112589646-d1942780-8e44-11eb-8bea-9b0e71ca5ab1.jpg)
-![名称未設定 1](https://user-images.githubusercontent.com/81402033/118453621-6410c300-b732-11eb-8ae5-e6731c23b377.png)
-
-
-
-
-
-
 # インストール方法 -Installation-
 ## 準備 -Preparation-
   
@@ -142,39 +130,6 @@ Tyre blanketsの横の3点マークをクリックすると，オートシフト
  - **PRACTICEのStart from:Pitsを選択しレースをスタートすると、ピットガイが地面に埋まっていますがお使いのパソコンは正常です．**  
 
 ![image](https://user-images.githubusercontent.com/81402033/113975416-70277c00-987a-11eb-995d-6d53a0acfbd4.png)
-
-
-___
-# 備考 -Notes-   
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス</a>の下に提供されています．
-
-ただし，本MODの利用・改造等は自由にしていただいて構いません． 
-
-FSAE関連のMODを以下にまとめました．動作は確認していません． 
-
-- FSAE Car   
-[Formula Student UCM 2016](https://www.racedepartment.com/downloads/formula-student-ucm-2016.19272/) - EV  
-[MAD Formula Team MFTC3](https://www.racedepartment.com/downloads/mad-formula-team-mftc3.36690/) - ICV  
-[FSAE: Monash Motorsport M17c](https://www.racedepartment.com/downloads/fsae-monash-motorsport-m17c.35841/) - ICV  
-
-- FSAE Track  
-[Formula Student UK 2020 - Sprint](https://www.racedepartment.com/downloads/formula-student-uk-2020-sprint.34588/)  
-[FSAE: Netball Court Autocross](https://www.racedepartment.com/downloads/fsae-netball-court-autocross.17593/)  
-[FSAE: Michigan - AutoX '18](https://www.racedepartment.com/downloads/fsae-michigan-autox-18-beta.21013/)  
-
-- Mini Circuit  
-[AC GPK Albert Park](https://www.racedepartment.com/downloads/ac-gpk-albert-park.39655/)  
-[AC GPK Barcelona](https://www.racedepartment.com/downloads/ac-gpk-barcelona.39628/)   
-[AC GPK Spa](https://www.racedepartment.com/downloads/ac-gpk-spa.39627/)  
-[AC GPK Bahrain](https://www.racedepartment.com/downloads/ac-gpk-bahrain.40201/)  
-
-___
-管理：[公益社団法人 自動車技術会](https://www.jsae.or.jp/)  
-開発：本同直人　村松滉平　柚木　希  
-協力：[東京農工大学 TUAT Formula](http://web.tuat.ac.jp/~fsae/)  
-不具合等連絡先：jsae.sim.pj@gmail.com
-___
-
 
 
 
