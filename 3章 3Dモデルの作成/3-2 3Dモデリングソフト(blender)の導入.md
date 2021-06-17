@@ -14,7 +14,9 @@ Blender は3DCGアニメーションを作成するための統合環境アプ�
 1．起動画面で全般をクリック
 1. `Edit`>`Preferences...`で設定画面を開く
 #### blenderの日本語化
-左側`Interface`の`Translation`>`Language`を`English`から`Japanese`に変更し、`Tooltips`、`Interface`にチェック
+左側`Interface`の`Translation`>`Language`を`English`から`Japanese`に変更し、`Tooltips`、`Interface`にチェック  
+![blender初期設定インターフェース](https://user-images.githubusercontent.com/81402033/122317825-179aec00-cf59-11eb-8c54-e2ae96fb2cbc.jpg)
+
 #### テンキーレスキーボードの場合
 左側`入力`の`キーボード`>`テンキーを模倣`にチェック
 #### 視点の操作  
