@@ -13,7 +13,7 @@
 ![stlインポート1](https://user-images.githubusercontent.com/81402033/122321602-140a6380-cf5f-11eb-8c76-b0ab9d23a7cd.jpg)
 
 ## SOLIDWORKSの場合
-右側`トランスフォーム`>`Zが前方``Yが上`に設定
+右側`トランスフォーム`>`Zが前方`、`Yが上`に設定
 `STLをインポート`をクリック。
 
 ![solidworksインポート設定](https://user-images.githubusercontent.com/81402033/122321537-f76e2b80-cf5e-11eb-862e-0b1d6e1e5e30.jpg)
