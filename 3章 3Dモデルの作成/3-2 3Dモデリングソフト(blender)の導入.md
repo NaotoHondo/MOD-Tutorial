@@ -8,3 +8,7 @@ Blender は3DCGアニメーションを作成するための統合環境アプ�
 1. I accepe the terms in the Licence Agreementにチェックをつけて次へ  
 1. インストール先はデフォルトのままでOK  
 1. インストール完了  
+
+# blenderのおすすめ初期設定
+1．blenderを起動します。
+
