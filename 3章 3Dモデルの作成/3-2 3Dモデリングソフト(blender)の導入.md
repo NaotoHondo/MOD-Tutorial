@@ -1,1 +1,1 @@
-# 3-2blenderの導入
+# 3-2 blenderの導入
