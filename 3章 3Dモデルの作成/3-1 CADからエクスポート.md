@@ -22,4 +22,5 @@ ___
 ## Autodesk Inventor 
 ___
 ## Autodesk Fusion360
-
+以上で3-1 CADからエクスポートは終了です。
+次は[3-2 blenderの導入](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/3-2%203D%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%BD%E3%83%95%E3%83%88(blender)%E3%81%AE%E5%B0%8E%E5%85%A5.md)です。
