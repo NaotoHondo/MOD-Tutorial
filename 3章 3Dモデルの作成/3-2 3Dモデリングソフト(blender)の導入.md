@@ -45,5 +45,5 @@
 
 ![blender初期設定プリファレンスを保存](https://user-images.githubusercontent.com/81402033/122318501-1918e400-cf5a-11eb-80f4-7cba8123bae1.jpg)
 
-以上で3-2 blenderの導入は終了です。次は[3-3 stlファイルをblenderにインポートする](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/3-3%20stl%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92blender%E3%81%AB%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B.md)
+以上で3-2 blenderの導入は終了です。次は [3-3 stlファイルをblenderにインポートする](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/3-3%20stl%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92blender%E3%81%AB%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B.md)
 です。
