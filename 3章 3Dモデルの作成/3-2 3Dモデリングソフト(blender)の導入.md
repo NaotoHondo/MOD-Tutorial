@@ -5,6 +5,7 @@ blenderをインストールし初期設定を行う。blenderの基本操作を
 ![blender_logo_socket](https://user-images.githubusercontent.com/81402033/122319391-89743500-cf5b-11eb-8c16-8e6cd646870a.png)
 
 >Blender は3DCGアニメーションを作成するための統合環境アプリケーションです。オープンソースのフリーウェアであり、本格的かつ商用アプリにも負けない機能を持ち、世界中のユーザに利用されています。([Blender.jp](https://blender.jp/)より引用)  
+
 ショートカットキーを多用します。後のblenderの基本操作で解説
 # blenderのインストール
 1. [blender公式サイト](https://www.blender.org/)に飛んでDownload Blenderの青いボタンを押す  
