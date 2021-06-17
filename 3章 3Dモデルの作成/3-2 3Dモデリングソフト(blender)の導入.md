@@ -12,4 +12,5 @@ Blender は3DCGアニメーションを作成するための統合環境アプ�
 # blenderのおすすめ初期設定
 1. blenderを起動
 1．起動画面で全般をクリック
-1. `Edit`>`Preferences...`
+1. `Edit`>`Preferences...`で設定画面を開く
+1. 左側`Interface`の`Translation`>`Language`を`English`から`Japanese`に変更し、`Tooltips`、`Interface`にチェック
