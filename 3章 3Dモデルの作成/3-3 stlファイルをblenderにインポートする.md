@@ -9,6 +9,9 @@
 `Aキー`でビューポート内のすべてのオブジェクトを選択し`Xキー`で削除
 `Shift+C`で3Dカーソルを原点に配置します。
 `ファイル`>`インポート`>`stl`
+
+![stlインポート1](https://user-images.githubusercontent.com/81402033/122321602-140a6380-cf5f-11eb-8c76-b0ab9d23a7cd.jpg)
+
 ## SOLIDWORKSの場合
 右側`トランスフォーム`>`Zが前方``Yが上`に設定
 `STLをインポート`をクリック。
