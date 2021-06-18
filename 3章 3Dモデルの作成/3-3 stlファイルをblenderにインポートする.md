@@ -28,4 +28,7 @@
 ## Autodesk Inventorの場合  
 右側`トランスフォーム`>`Zが前方`、`Yが上`に設定
 `STLをインポート`をクリック。  
+
+![inventorインポート設定](https://user-images.githubusercontent.com/81402033/122489479-c6ebc780-d01a-11eb-9dd5-90bffffa77cc.png)
+
 ## Autodesk Fusion360の場合
