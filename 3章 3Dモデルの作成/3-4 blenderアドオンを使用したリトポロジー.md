@@ -9,7 +9,9 @@
 # Quad Remesherをblender上で有効化する  
 `編集`>`プリファレンス`>`アドオン`>`インストール`>ダウンロードしたzipファイル(zipのままでOK)>`アドオンのインストール`  
 ![Quadremesher導入5](https://user-images.githubusercontent.com/81402033/122497580-872bdc80-d028-11eb-9001-ef4adb8a76f6.png)  
-Quad Remesherアドオンにチェックをつけて左下から`プリファレンスを保存`
+Quad Remesherアドオンにチェックをつけて左下から`プリファレンスを保存`  
+![Quadremesher導入6](https://user-images.githubusercontent.com/81402033/122497795-f275ae80-d028-11eb-9629-167f0ec1d135.png)
+
 
 
 
