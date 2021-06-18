@@ -11,7 +11,7 @@ AssettoCorsaの挙動設定の仕組みを調べたい時や参考にしたい�
 このツールを利用してMODを作成していきます。  
 
 # KnosSDKのインストール
-1. [KnosSDKダウンロードサイト](http://labs.assettocorsa.jp/downloads/tools/kunossdk)へアクセスし、Download Japaneseの水色のボタンをクリックするとzipファイルのダウンロードが開始する。  
+1. [KnosSDKダウンロードサイト](http://labs.assettocorsa.jp/downloads/tools/kunossdk)へアクセスし、Download Japaneseの水色のボタンをクリックするとzipファイルのダウンロードが開始する。![image](https://user-images.githubusercontent.com/81402033/122531039-143b5980-d05a-11eb-8d61-25ace165115b.png)  
 1. ダウンロードしたzipファイルを解凍し、フォルダ内にある`install.bat`を右クリックし、「管理者として実行」をクリックする。  
 1. このアプリがデバイスに変更を加えることを許可しますか？と表示されるので、「はい」をクリックする。
 1. インストール完了（アンインストールする際は`uninstall.bat`を同様に実行）  
