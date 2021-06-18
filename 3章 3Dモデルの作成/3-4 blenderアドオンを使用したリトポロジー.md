@@ -10,10 +10,10 @@
 `編集`>`プリファレンス`>`アドオン`>`インストール`>ダウンロードしたzipファイル(zipのままでOK)>`アドオンのインストール`  
 ![Quadremesher導入5](https://user-images.githubusercontent.com/81402033/122497580-872bdc80-d028-11eb-9001-ef4adb8a76f6.png)  
 Quad Remesherアドオンにチェックをつけて左下から`プリファレンスを保存`  
-![Quadremesher導入6](https://user-images.githubusercontent.com/81402033/122497795-f275ae80-d028-11eb-9629-167f0ec1d135.png)
+![Quadremesher導入6](https://user-images.githubusercontent.com/81402033/122497795-f275ae80-d028-11eb-9629-167f0ec1d135.png)  
 blender3Dビューポート上にカーソルを置きNキーでプロパティシェルフを展開する。  
 プロパティシェルフにQuad Remeshのタブができているのでそこをクリック。  
-![Quadremesher導入7](https://user-images.githubusercontent.com/81402033/122498285-cdce0680-d029-11eb-819a-1d6e88417aff.png)
+![Quadremesher導入7](https://user-images.githubusercontent.com/81402033/122498285-cdce0680-d029-11eb-819a-1d6e88417aff.png)  
 
 オブジェクトを一つ選択し`REMESH IT`をクリックすると初回はライセンス認証を求められるのでダウンロード時に記入したEmailを記入し左のStrat TRIALをクリック
 
