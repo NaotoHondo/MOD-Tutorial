@@ -10,7 +10,7 @@ CADソフトでモデリングした車両モデルを3DCG系ソフトで扱え�
 - 車両のフルアセンブリモデル
 
 # エクスポート設定
-## SOLIDWORKS![solidworks-social_12](https://user-images.githubusercontent.com/81402033/122488522-97d45680-d018-11eb-8afa-2d03786871d9.jpg)
+## SOLIDWORKS!  
 
 `ファイル>指定保存` からファイルの種類`.stl`を選択。  
 下の`オプション`を開き、単位を`m`に設定する。  
