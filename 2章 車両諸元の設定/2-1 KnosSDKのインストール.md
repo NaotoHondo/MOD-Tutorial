@@ -2,6 +2,8 @@
 # やること
 KnosSDKをインストールし、車両諸元設定ファイルの展開と再構築の方法を学習する。
 # KnosSDKとは？
+![image](https://user-images.githubusercontent.com/81402033/122529589-9a56a080-d058-11eb-9e2a-ea6a1b6e4c77.png)  
+
 >KN5(3Dファイル,テクスチャー)、ACD(車両設定データ)、BANK(音源データ)を再編集可能な形式へ変換・展開するためのツールです。
 AssettoCorsaの挙動設定の仕組みを調べたい時や参考にしたい際にご利用ください。([ACJP LABS](http://labs.assettocorsa.jp/downloads/tools/kunossdk)より引用)
 
