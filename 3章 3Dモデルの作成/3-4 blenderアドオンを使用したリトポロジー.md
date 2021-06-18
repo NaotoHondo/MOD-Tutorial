@@ -1,3 +1,7 @@
+# リトポロジーとは？
+モデル形状を維持したままポリゴン数を減らしてメッシュを再構築することをリトポロジーという。  
+CADからエクスポートしたメッシュデータは細かく（数百万△ポリゴン）重たいデータになっている。Assetto Corsaで動かす3Dモデルは30万△ポリゴン以内に収める必要がある。配布中のNK16 MODでは完全手動でリトポロジーを行ったが3DCGのテクニックが要求されることに加えて非常に時間がかかる（約2か月）ので、リトポロジーの自動化ツールを活用する。
+
 # QuadRemesherのダウンロード  
 [Quad Remesher](https://exoside.com/quadremesher/)公式サイトに飛び、Download TRIALを押す。
 ![Quadremesher導入1](https://user-images.githubusercontent.com/81402033/122494242-fbb04c80-d023-11eb-80bf-80b29b7674ce.png)
@@ -15,7 +19,8 @@ blender3Dビューポート上にカーソルを置きNキーでプロパティ�
 プロパティシェルフにQuad Remeshのタブができているのでそこをクリック。  
 ![Quadremesher導入7](https://user-images.githubusercontent.com/81402033/122498285-cdce0680-d029-11eb-819a-1d6e88417aff.png)  
 
-オブジェクトを一つ選択し`REMESH IT`をクリックすると初回はライセンス認証を求められるのでダウンロード時に記入したEmailを記入し左のStrat TRIALをクリック
+オブジェクトを一つ選択し`REMESH IT`をクリックすると初回はライセンス認証を求められるのでダウンロード時に記入したEmailを記入し左のStrat TRIALをクリック  
+以上でQuad Remesherの導入は完了です。
 
 
 
