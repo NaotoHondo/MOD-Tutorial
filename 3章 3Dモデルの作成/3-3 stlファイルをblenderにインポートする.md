@@ -18,3 +18,14 @@
 
 ![solidworksインポート設定](https://user-images.githubusercontent.com/81402033/122321537-f76e2b80-cf5e-11eb-862e-0b1d6e1e5e30.jpg)
 
+## Creoの場合  
+右側`トランスフォーム`>`スケール`を0.001に設定  
+`Zが前方`、`Yが上`に設定
+`STLをインポート`をクリック。  
+
+![creoインポート設定](https://user-images.githubusercontent.com/81402033/122489249-28f7fd00-d01a-11eb-9ee2-01b08dd6e5f1.png)
+
+## Autodesk Inventorの場合  
+右側`トランスフォーム`>`Zが前方`、`Yが上`に設定
+`STLをインポート`をクリック。  
+## Autodesk Fusion360の場合
