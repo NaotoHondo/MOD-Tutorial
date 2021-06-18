@@ -31,4 +31,12 @@
 
 ![inventorインポート設定](https://user-images.githubusercontent.com/81402033/122489479-c6ebc780-d01a-11eb-9dd5-90bffffa77cc.png)
 
-## Autodesk Fusion360の場合
+## Autodesk Fusion360の場合  
+右側`トランスフォーム`>`スケール`を0.001に設定  
+`Yが前方`、`Zが上`に設定
+`STLをインポート`をクリック。  
+
+![fusion360インポート設定](https://user-images.githubusercontent.com/81402033/122491593-3f548780-d01f-11eb-8c5a-7ee5793b5fbf.png)
+
+以上で3-3 stlファイルをblenderにインポートする は終了です。  
+次は [3-4 blenderアドオンを使用したリトポロジー](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/3-4%20blender%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%83%AA%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC.md) です。
