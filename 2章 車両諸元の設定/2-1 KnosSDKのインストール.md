@@ -1,6 +1,6 @@
 # 2-1 KnosSDKの導入
 # やること
-KnosSDKをインストールし、車両諸元設定ファイルの展開と再構築の方法を学習する。
+KnosSDKをインストールし、MODの編集が可能な環境にする。
 # KnosSDKとは？
 ![image](https://user-images.githubusercontent.com/81402033/122529589-9a56a080-d058-11eb-9e2a-ea6a1b6e4c77.png)  
 
@@ -16,11 +16,5 @@ AssettoCorsaの挙動設定の仕組みを調べたい時や参考にしたい�
 1. このアプリがデバイスに変更を加えることを許可しますか？と表示されるので、「はい」をクリックする。
 1. インストール完了（アンインストールする際は`uninstall.bat`を同様に実行）  
 
-# 車両諸元設定ファイルの展開
-車両諸元設定ファイルを展開してみましょう。以下のディレクトリへ移動します。  
-`C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars`  
-このディレクトリにはAssettoCorsa内の車両データが配置されています。MODファイルも最終的にはここに配置することでAssettoCorsaで読み込むことができます。  
 
-では、例として`abarth500`のファイルを見てみましょう。`abarth500`フォルダの中に`data.acd`というファイルがあります。これがAssettoCorsa用に変換された車両諸元設定ファイルです。  
-このファイルを右クリックして
 
