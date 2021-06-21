@@ -22,15 +22,18 @@ blenderをインストールし初期設定を行う。blenderの基本操作を
 
 ![blender初期設定プリファレンス設定](https://user-images.githubusercontent.com/81402033/122319035-fdfaa400-cf5a-11eb-98be-c5cfc1147b04.jpg)
 
+
 ### blenderの日本語化
 左側`Interface`の`Translation`>`Language`を`English`から`Japanese`に変更し、`Tooltips`、`Interface`にチェック  
 
 ![blender初期設定インターフェース](https://user-images.githubusercontent.com/81402033/122317825-179aec00-cf59-11eb-8c54-e2ae96fb2cbc.jpg)
 
+
 ### テンキーレスキーボードの場合
 左側`入力`の`キーボード`>`テンキーを模倣`にチェック  
 
 ![blender初期設定テンキーの模倣](https://user-images.githubusercontent.com/81402033/122317986-58930080-cf59-11eb-8e20-ce2273c0f258.jpg)
+
 
 ### 視点の操作  
 左側`視点の操作`の`周回とパン`>`選択部分を中心に回転`、`深度`にチェック  
@@ -38,11 +41,13 @@ blenderをインストールし初期設定を行う。blenderの基本操作を
 
 ![blender初期設定視点の操作](https://user-images.githubusercontent.com/81402033/122318104-88da9f00-cf59-11eb-991c-a87ae839a77f.jpg)
 
+
 ### マウスの右クリックで選択  
 筆者は右クリックで選択に慣れてしまったのでこのチュートリアルは右クリック選択で進行します。  
 変更したい人は左側`キーマップ`の`プリファレンス`>`Select with Mouse Button`で好きなほうを選べます。  
 
 ![blender初期設定選択ボタン](https://user-images.githubusercontent.com/81402033/122318256-b9223d80-cf59-11eb-9e5e-5790a4b84ad6.jpg)
+
 
 ### 設定の保存
 左下ボタンから`プレファレンスの保存`
