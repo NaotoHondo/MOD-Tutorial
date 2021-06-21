@@ -131,7 +131,7 @@ Tyre blanketsの横の3点マークをクリックすると，オートシフト
 
 ![image](https://user-images.githubusercontent.com/81402033/113975416-70277c00-987a-11eb-995d-6d53a0acfbd4.png)
 
-以上で1-1 AssettoCorsaとContentManagerの導入 は終了です．
+以上で1-1 AssettoCorsaとContentManagerの導入 は終了です．  
 [1-2 MODのフォルダ構造 へ進む](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/1%E7%AB%A0%20%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/1-2%20MOD%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E6%A7%8B%E9%80%A0.md)
 
 
