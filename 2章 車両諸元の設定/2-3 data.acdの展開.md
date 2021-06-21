@@ -1,4 +1,4 @@
-# 2-3 車両諸元ファイルの展開
+# **2-3 車両諸元ファイルの展開**
 # やること
 [2-1 KnosSDKの導入](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-1%20KnosSDK%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB.md)でインストールしたKnosSDKを利用して車両諸元設定ファイルを展開・再変換をする。  
 
@@ -22,60 +22,60 @@ KnosSDKを利用して車両諸元ファイルを展開してみましょう。�
 | ファイル名 | 機能 | 参照ファイル | 作業番号 |  
 ----|---- |---- |---- 
 aero.ini                | エアロデバイスの設定 | wing_body_AOA_CD.lut / wing_body_AOA_CD.lut |2-4
-wing_body_AOA_CD.lut    | 抗力係数のデータ ||
-wing_body_AOA_CL.lut    | 揚力係数のデータ ||
-brakes.ini              | ブレーキの設定 ||
-cameras.ini             | カメラ位置の設定 ||
-car.ini                 | 車両全般の設定
-colliders.ini           | 衝突モデルの座標設定 ||
-dash_cam.ini            | ダッシュボードカメラの設定 ||
-driver3d.ini            | ドライバーモデルの設定 ||
-drivetrain.ini          | ドライブトレインの設定 ||
-engine.ini              | エンジンの設定 | power.lut |
-power.lut               | トルクカーブのデータ     
-throttle.lut            | スロットル開度のデータ
-lods.ini                | 車両モデルの表示設定
-setup.ini               | マシンセッティングの設定
-suspention.ini          | サスペンションの設定
-tyres.ini               | タイヤの設定 | F3hard_front.lut / F3hard_rear.lut / tcurve_F3hard.lut|
-F3hard_front.lut        | フロントタイヤ温度のデータ||
-F3hard_rear.lut         | リヤタイヤの温度データ||
-tcurve_F3hard.lut       | タイヤカーブのデータ||
+wing_body_AOA_CD.lut    | 迎角-抗力係数のデータ（ボディ） ||2-4
+wing_body_AOA_CL.lut    | 迎角-揚力係数のデータ（ボディ） ||2-4
+brakes.ini              | ブレーキの設定 || 2-5 
+cameras.ini             | カメラ位置の設定 || 2-12
+car.ini                 | 車両全般の設定（車重,ステア等） || 2-6
+colliders.ini           | 衝突モデルの座標設定 || 2-13
+dash_cam.ini            | ダッシュボードカメラの設定 || 2-12
+driver3d.ini            | ドライバーモデル・アニメーションの設定 |driver.kn5 / steer.ksanim| 2-14
+drivetrain.ini          | ドライブトレインの設定 || 2-7 
+engine.ini              | エンジンの設定 | power.lut | 2-8
+power.lut               | トルクカーブのデータ || 2-8    
+throttle.lut            | スロットル開度のデータ|| 2-8
+lods.ini                | 車両モデルの表示設定 || 2-11
+setup.ini               | マシンセッティングの設定 || 2-15
+suspention.ini          | サスペンションの設定 || 2-9
+tyres.ini               | タイヤの設定 | F3hard_front.lut / F3hard_rear.lut / tcurve_F3hard.lut| 2-10
+F3hard_front.lut        | フロントタイヤ温度のデータ|| 2-10
+F3hard_rear.lut         | リヤタイヤの温度データ|| 2-10
+tcurve_F3hard.lut       | タイヤカーブのデータ|| 2-10
 
 追加設定ファイル（FOR_LATER_USE）
 | ファイル名 | 機能 | 参照ファイル | 作業番号 |  
 ----|---- |---- |---- 
-ai.ini                  | 
-ambient_shadows.ini     | 
-analog_instruments.ini  |  
-blurred_objects.ini     | 
-damage.ini              | 
-digital_instruments.ini |  
-drs.ini  
-electronics.ini  
-escmode.ini  
-final.rto  
-flame_presets.ini  
-flames.ini  
-height_diffuser_CD.lut  
-height_diffuser_CL.lut  
-height_frontwing_CD.lut  
-height_frontwing_CL.lut  
-fuel_cons.ini  
-lights.ini  
-mirrors.ini  
-proview_nodes.ini  
-ratios.rto  
-sounds.ini  
-suspention_graphics.ini  
-wing_animation.ini  
-wing_controller_brake.lut  
-wing_controller_speed.lut  
-wing_diffuser_AOA_CD.lut  
-wing_diffuser_AOA_CL.lut  
-wing_front_AOA_CD.lut  
-wing_front_AOA_CL.lut  
-wing_resr_AOA_CD.lut  
-wing_rear_AOA_CL.lut  
-wing_rearmovable_AOA_CD.lut  
-wing_rearmovable_AOA_CL.lut  
+ai.ini                  | コンピュータの設定
+ambient_shadows.ini     | 影の設定
+analog_instruments.ini  | アナログインパネの設定
+blurred_objects.ini     | 残像の設定
+damage.ini              | 車両ダメージの設定
+digital_instruments.ini | デジタルインパネの設定
+drs.ini                 | DRSの設定
+electronics.ini         | 電子制御（ABS,TC）の設定
+escmode.ini             | カメラの設定
+final.rto               | ファイナルギアの設定
+flame_presets.ini       | バックファイヤーの設定
+flames.ini              | バックファイヤーの設定
+height_diffuser_CD.lut  | ディフューザー高さ-CD変化のデータ
+height_diffuser_CL.lut  | ディフューザー高さ-CL変化のデータ
+height_frontwing_CD.lut | Fウイング高さ-CD変化のデータ
+height_frontwing_CL.lut | Fウイング高さ-CL変化のデータ
+fuel_cons.ini           | 燃料消費の設定
+lights.ini              | ライトの設定
+mirrors.ini             | ミラーの設定
+proview_nodes.ini       | 不明（自動作成される）
+ratios.rto              | ギヤ比の設定
+sounds.ini              | サウンドの設定
+suspention_graphics.ini | 不明（空データ）
+wing_animation.ini      | ウィングのアニメーション設定
+wing_controller_brake.lut | ウィング制御（ブレーキ） 
+wing_controller_speed.lut | ウィング制御（スピード）
+wing_diffuser_AOA_CD.lut  | 迎角-抗力係数のデータ（ディフューザー）
+wing_diffuser_AOA_CL.lut  | 迎角-揚力係数のデータ（ディフューザー）
+wing_front_AOA_CD.lut  | 迎角-抗力係数のデータ（ディフューザー）
+wing_front_AOA_CL.lut  | 迎角-揚力係数のデータ（Fウィング）
+wing_rear_AOA_CD.lut   | 迎角-抗力係数のデータ（Rウィング）
+wing_rear_AOA_CL.lut   | 迎角-抗力係数のデータ（Rウィング）
+wing_rearmovable_AOA_CD.lut  | 迎角-抗力係数のデータ（可動Rウィング）
+wing_rearmovable_AOA_CL.lut  | 迎角-抗力係数のデータ（可動Rウィング）
