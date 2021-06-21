@@ -21,26 +21,26 @@ KnosSDKを利用して車両諸元ファイルを展開してみましょう。�
 最小構成
 | ファイル名 | 機能 | 参照ファイル | 作業番号 |  
 ----|---- |---- |---- 
-aero.ini                | エアロデバイスの設定 | wing_body_AOA_CD.lut / wing_body_AOA_CD.lut |2-4
-wing_body_AOA_CD.lut    | 迎角-抗力係数のデータ（ボディ） ||2-4
-wing_body_AOA_CL.lut    | 迎角-揚力係数のデータ（ボディ） ||2-4
-brakes.ini              | ブレーキの設定 || 2-5 
+aero.ini                | エアロデバイスの設定 | wing_body_AOA_CD.lut / wing_body_AOA_CD.lut |[2-4](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-4%20%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AE%E8%A8%AD%E5%AE%9A.md)
+wing_body_AOA_CD.lut    | 迎角-抗力係数のデータ（ボディ） ||[2-4](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-4%20%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AE%E8%A8%AD%E5%AE%9A.md)
+wing_body_AOA_CL.lut    | 迎角-揚力係数のデータ（ボディ） ||[2-4](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-4%20%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AE%E8%A8%AD%E5%AE%9A.md)
+brakes.ini              | ブレーキの設定 || [2-5](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-5%20%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AD%E3%81%AE%E8%A8%AD%E5%AE%9A.md)
 cameras.ini             | カメラ位置の設定 || 2-12
-car.ini                 | 車両全般の設定（車重,ステア等） || 2-6
+car.ini                 | 車両全般の設定（車重,ステア等） || [2-6](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-6%20car.ini%E3%81%AE%E8%A8%AD%E5%AE%9A.md)
 colliders.ini           | 衝突モデルの座標設定 || 2-13
 dash_cam.ini            | ダッシュボードカメラの設定 || 2-12
 driver3d.ini            | ドライバーモデル・アニメーションの設定 |driver.kn5 / steer.ksanim| 2-14
-drivetrain.ini          | ドライブトレインの設定 || 2-7 
-engine.ini              | エンジンの設定 | power.lut | 2-8
-power.lut               | トルクカーブのデータ || 2-8    
-throttle.lut            | スロットル開度のデータ|| 2-8
+drivetrain.ini          | ドライブトレインの設定 || [2-7](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-7%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A.md) 
+engine.ini              | エンジンの設定 | power.lut | [2-8](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-8%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A.md)
+power.lut               | トルクカーブのデータ || [2-8](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-8%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A.md)    
+throttle.lut            | スロットル開度のデータ|| [2-8](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-8%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A.md)
 lods.ini                | 車両モデルの表示設定 || 2-11
 setup.ini               | マシンセッティングの設定 || 2-15
-suspention.ini          | サスペンションの設定 || 2-9
-tyres.ini               | タイヤの設定 | F3hard_front.lut / F3hard_rear.lut / tcurve_F3hard.lut| 2-10
-F3hard_front.lut        | フロントタイヤ温度のデータ|| 2-10
-F3hard_rear.lut         | リヤタイヤの温度データ|| 2-10
-tcurve_F3hard.lut       | タイヤカーブのデータ|| 2-10
+suspention.ini          | サスペンションの設定 || [2-9](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-9%20%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A.md)
+tyres.ini               | タイヤの設定 | F3hard_front.lut / F3hard_rear.lut / tcurve_F3hard.lut| [2-10](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-10%20%E3%82%BF%E3%82%A4%E3%83%A4%E3%81%AE%E8%A8%AD%E5%AE%9A.md)
+F3hard_front.lut        | フロントタイヤ温度のデータ|| [2-10](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-10%20%E3%82%BF%E3%82%A4%E3%83%A4%E3%81%AE%E8%A8%AD%E5%AE%9A.md)
+F3hard_rear.lut         | リヤタイヤの温度データ|| [2-10](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-10%20%E3%82%BF%E3%82%A4%E3%83%A4%E3%81%AE%E8%A8%AD%E5%AE%9A.md)
+tcurve_F3hard.lut       | タイヤカーブのデータ|| [2-10](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-10%20%E3%82%BF%E3%82%A4%E3%83%A4%E3%81%AE%E8%A8%AD%E5%AE%9A.md)
 
 追加設定ファイル（FOR_LATER_USE）
 | ファイル名 | 機能 | 参照ファイル | 作業番号 |  
