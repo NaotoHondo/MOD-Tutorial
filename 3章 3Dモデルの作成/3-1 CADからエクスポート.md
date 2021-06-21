@@ -11,7 +11,7 @@ CADソフトでモデリングした車両モデルを3DCG系ソフトで扱え�
 - 車両のフルアセンブリCADモデル
 
 # エクスポート設定
-## SOLIDWORKS  
+### SOLIDWORKS  
 
 `ファイル>指定保存` からファイルの種類`.stl`を選択。  
 下の`オプション`を開き、単位を`m`に設定する。  
@@ -20,7 +20,7 @@ CADソフトでモデリングした車両モデルを3DCG系ソフトで扱え�
 ![SOLIDWORKSエクスポート2](https://user-images.githubusercontent.com/81402033/122487979-76bf3600-d017-11eb-854a-5c7fc2c9ca1b.jpg)
 
 ___
-## Creo  
+### Creo  
 `ファイル`>`名前を付けて保存`>`コピーを保存`からタイプ`.stl`を選択。  
 
 ![creoエクスポート設定1](https://user-images.githubusercontent.com/81402033/122488123-c7cf2a00-d017-11eb-88d6-8f6118b37324.jpg)
@@ -28,7 +28,7 @@ ___
 
 
 ___
-## Autodesk Inventor  
+### Autodesk Inventor  
 `ファイル`>`書き出し`>`CAD形式`からファイルの種類`.stl`を選択。
 `オプション`を開き、単位を`m`に設定する。  
 
@@ -37,7 +37,7 @@ ___
 ![inventorエクスポート設定3](https://user-images.githubusercontent.com/81402033/122487996-7fb00780-d017-11eb-90b9-88d96870fa51.jpg)
 
 ___
-## Autodesk Fusion360
+### Autodesk Fusion360
 `ファイル`>`3Dプリント`  
 右側3Dプリントタブで`選択`、`メッシュを...`にチェック  
 3Dビューポート内でメッシュを選択する。  
