@@ -75,7 +75,7 @@ blenderで新規ファイルを作成する
 
 完全に手作業で作り直す場合
 `Shift+A`で作りたい形状に近い基本形状を選ぶ
-`E`（押し出し），`Ctrl+R`（ループカット），[ベベル](https://blender-cg.net/bevel/)等を駆使してモデリングする．
+`E`（[押し出し](https://blender-cg.net/extrude/)），`Ctrl+R`（[ループカット](https://blender-cg.net/loop-subdivide/)），[ベベル](https://blender-cg.net/bevel/)等を駆使してモデリングする．
 傾いているオブジェクトをモデリングするときは，オブジェクトモードで傾きをつけて編集モードでローカル座標を用いてモデリングするとやりやすい
 
 リトポロジーのコツ
