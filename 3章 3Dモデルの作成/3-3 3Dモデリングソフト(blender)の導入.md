@@ -1,4 +1,4 @@
-# 3-2 blenderの導入
+# 3-3 blenderの導入
 # やること
 blenderをインストールし初期設定を行う。blenderの基本操作を学習する。
 # blenderとは？  
