@@ -3,6 +3,7 @@
 
 # インポート設定  
 `blender`を起動して新規ファイルで`全般`を選択します。  
+![blendファイルの新規作成](https://user-images.githubusercontent.com/81402033/138378518-98c7edc2-c17a-4736-b5ef-a47be6c2e332.png)
 `ファイル`>`名前を付けて保存`で保存します。
 保存場所はCarNameフォルダです．
 
