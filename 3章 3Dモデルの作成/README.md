@@ -12,10 +12,14 @@ CarNameフォルダの中に**textureフォルダ（名前重要！）を作成�
 #### CarName.blend
 blenderのファイルです．3Dモデルの作成はこのファイルで行います．
 #### CarName.blend1
-blenderのバックアップファイル　拡張子の数字を消すとblendファイルとして開けるようになります．
+blenderのバックアップファイルです．blenderで保存するたびに更新されます．　拡張子の数字を消すとblendファイルとして開けるようになります．
 #### CarName.fbx
-fbxファイル　blenderからエクスポートしたfbxファイルです．
+blenderからエクスポートした3Dモデルデータです．
 #### CarName.fbx.ini
 ksEditor内のマテリアル設定がテキストファイル形式で保存されています．ksEditorでfbxを開くときにこのiniファイルからマテリアル設定がロードされるようになっています．  
 #### CarName.kn5
 assetto corsa専用のファイルです.ksEditorでfbxからコンバートして作成します．
+#### CarName_fullassem.stl
+CADからエクスポートした3Dモデルデータです．
+
+3Dモデリングソフトの使い方等慣れない作業が多いので重たい章ですが自分でモデリングした車両がassettocorsaで走ると感動するものです．頑張りましょう!
