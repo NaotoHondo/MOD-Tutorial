@@ -14,25 +14,4 @@
 [ksEditorでのマテリアル設定](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/KsEditor%E3%81%A7%E3%81%AE%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E8%A8%AD%E5%AE%9A.md)  
 [ksEditorからエクスポート](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/KsEditor%E3%81%8B%E3%82%89%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88.md)  
 
-#### フォルダの作成
-効率よく作業を進めるために，この章で作ったものを格納するためのフォルダを作成します．ksEditor（3dモデルデータをassetto corsaにコンバートするためのソフト）でマテリアルやテクスチャを自動ロードするのにフォルダ構造が重要です．    
-この章で作成する3Dモデルファイル全般を格納する**CarName(任意の名前)フォルダを作成します．**※ディレクトリに2バイト文字（日本語）を含まないように注意してください．ksEditorでエラーの原因となります．  
-CarNameフォルダの中に**textureフォルダ（名前重要！）を作成します．** 今後作成するテクスチャ画像ファイルはこのフォルダ内に保存します．  
-この章が終わるころには下のようなフォルダ構造になります．
-![3Dモデル開発のフォルダ構造](https://user-images.githubusercontent.com/81402033/138374112-50e53019-490a-4ba5-bc23-c418ae2a3be2.png)
-#### textureフォルダ
-テクチャを入れるフォルダです．ksEditorはこのフォルダ名のフォルダからテクスチャを自動ロードするのでフォルダ名は正確につけてください．Texture texturesは×
-#### CarName.blend
-blenderのファイルです．3Dモデルの作成はこのファイルで行います．
-#### CarName.blend1
-blenderのバックアップファイルです．blenderで保存するたびに更新されます．　拡張子の数字を消すとblendファイルとして開けるようになります．
-#### CarName.fbx
-blenderからエクスポートした3Dモデルデータです．
-#### CarName.fbx.ini
-ksEditor内のマテリアル設定がテキストファイル形式で保存されています．ksEditorでfbxを開くときにこのiniファイルからマテリアル設定がロードされるようになっています．  
-#### CarName.kn5
-assetto corsa専用のファイルです.ksEditorでfbxからコンバートして作成します．
-#### CarName_fullassem.stl
-CADからエクスポートした3Dモデルデータです．
-
 3Dモデリングソフトの使い方等慣れない作業が多いので重たい章ですが自分でモデリングした車両がassettocorsaで走ると感動するものです．頑張りましょう!
