@@ -1,6 +1,6 @@
 # 3-3 blenderの導入
 # やること
-blenderをインストールし初期設定を行う。blenderの基本操作を学習する。
+blenderをインストールし初期設定を行います。blenderの基本操作を学習します。
 # blenderとは？  
 ![blender_logo_socket](https://user-images.githubusercontent.com/81402033/122319391-89743500-cf5b-11eb-8c16-8e6cd646870a.png)
 
