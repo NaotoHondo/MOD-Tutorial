@@ -64,7 +64,7 @@ NVIDIA製のグラフィックボードを搭載してるPCの場合、チェッ
 
 [blender基本操作](https://czpanel.com/lecture/blender/basic/operation/)  
 [blenderの視点操作](https://blender-cg.net/mausu-sitenn/)  
-blenderチュートリアル等で検索するとたくさんヒットするのでわからないことがあったら検索してください。  
+[blenderチュートリアル](https://www.google.com/search?q=blender+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB&rlz=1C1ASUM_enJP944JP944&oq=blender+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB&aqs=chrome..69i57.4696j0j4&sourceid=chrome&ie=UTF-8)等で検索するとたくさんヒットするのでわからないことがあったら検索してください。  
 
 以上で`3-3 blenderの導入`は終了です。
 
