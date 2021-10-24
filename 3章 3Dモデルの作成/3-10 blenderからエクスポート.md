@@ -6,6 +6,7 @@ Aで表示オブジェクト全選択　`ファイル>エクスポート>FBX(.fb
 `スケール`を`0.01`に
 `Zが前方`，`Yが上`
 でエクスポート
+![blenderエクスポート設定](https://user-images.githubusercontent.com/81402033/138589753-8d1521b7-b3f5-4d12-ba64-c48bfdd86aa1.png)
 
 
 | Back | Next |
