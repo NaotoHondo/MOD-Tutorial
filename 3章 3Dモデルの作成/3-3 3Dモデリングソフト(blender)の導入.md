@@ -62,6 +62,8 @@ NVIDIA製のグラフィックボードを搭載してるPCの場合、チェッ
 
 # blenderの基本操作
 
+blenderの基本操作については[こちら](https://czpanel.com/lecture/blender/basic/operation/)で紹介されています。
+
 以上で`3-3 blenderの導入`は終了です。
 
 | Back | Next |
