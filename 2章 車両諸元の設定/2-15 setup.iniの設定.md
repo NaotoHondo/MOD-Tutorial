@@ -55,7 +55,7 @@
 6. `MAX=`でセットアップ変更できる最大値を指定。  
 7. `STEP=`で調整の段階幅を指定。
 8. `POS_X=`でX軸の位置を指定。0：左、0.5：中央、1：右
-9. `POS_Y=`でY軸の位置を指定。0から8の範囲。
+9. `POS_Y=`でY軸の位置を指定。0から8の範囲。  
 10.`HELP=`でマウスカーソルを合わせたときに表示される注釈の内容を指定。
 
 
@@ -64,4 +64,4 @@
 
 | Back | Next |
 |:---:|:---:|
-| [2-08 エンジンの設定](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-08%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A.md) | [2-12 サスペンションの設定](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-09%20%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A.md) |
+| [2-014 エンジンの設定](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-08%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A.md) | [2-12 サスペンションの設定](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/2%E7%AB%A0%20%E8%BB%8A%E4%B8%A1%E8%AB%B8%E5%85%83%E3%81%AE%E8%A8%AD%E5%AE%9A/2-09%20%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E8%A8%AD%E5%AE%9A.md) |
