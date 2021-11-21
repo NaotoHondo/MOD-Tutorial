@@ -15,38 +15,38 @@
 # エクスポート設定
 ___
 ### SOLIDWORKS  
--`ファイル>指定保存` からファイルの種類`.stl`を選択。  
--`オプション`を開く。  
--単位を`m`に設定する。  
--解像度を粗表示にする。  
+- `ファイル>指定保存` からファイルの種類`.stl`を選択。  
+- `オプション`を開く。  
+- 単位を`m`に設定する。  
+- 解像度を粗表示にする。  
 ![SOLIDWORKSエクスポート1](https://user-images.githubusercontent.com/81402033/122487977-74f57280-d017-11eb-8f25-f9aef1cc626f.jpg)
 ![solidworksエクスポート設定](https://user-images.githubusercontent.com/81402033/142764722-4096aec9-2d8a-4178-b2e5-1844f97669a8.png)
 
 
 ___
 ### Creo  
--`ファイル`>`名前を付けて保存`>`コピーを保存`からタイプ`.stl`を選択。  
--`オプション`を開く。    
--解像度を最低設定にする  
+- `ファイル`>`名前を付けて保存`>`コピーを保存`からタイプ`.stl`を選択。  
+- `オプション`を開く。    
+- 解像度を最低設定にする  
 ![creoエクスポート設定1](https://user-images.githubusercontent.com/81402033/122488123-c7cf2a00-d017-11eb-88d6-8f6118b37324.jpg)
 ![creoエクスポート設定2](https://user-images.githubusercontent.com/81402033/122488127-c9005700-d017-11eb-9fa6-897d9996d842.jpg)
 
 ___
 ### Autodesk Inventor  
--`ファイル`>`書き出し`>`CAD形式`からファイルの種類`.stl`を選択。
--`オプション`を開く。  
--単位を`m`に設定する。  
--解像度を最低にする。  
+- `ファイル`>`書き出し`>`CAD形式`からファイルの種類`.stl`を選択。
+- `オプション`を開く。  
+- 単位を`m`に設定する。  
+- 解像度を最低にする。  
 ![inventorエクスポート設定1](https://user-images.githubusercontent.com/81402033/122487989-7c1c8080-d017-11eb-950c-296e27f9d10a.jpg)
 ![inventorエクスポート設定2](https://user-images.githubusercontent.com/81402033/122487993-7de64400-d017-11eb-8537-a356381aa5ee.jpg)
 ![inventorエクスポート設定3](https://user-images.githubusercontent.com/81402033/122487996-7fb00780-d017-11eb-90b9-88d96870fa51.jpg)
 
 ___
 ### Autodesk Fusion360
--`ファイル`>`3Dプリント`  
--右側3Dプリントタブで`選択`、`メッシュを...`にチェック  
--3Dビューポート内でメッシュを選択する。  
--リファインメントオプションで解像度を最低にする。
+- `ファイル`>`3Dプリント`  
+- 右側3Dプリントタブで`選択`、`メッシュを...`にチェック  
+- 3Dビューポート内でメッシュを選択する。  
+- リファインメントオプションで解像度を最低にする。
 ![fusion360エクスポート設定](https://user-images.githubusercontent.com/81402033/122695384-2cd68a00-d27b-11eb-9547-592136f9b100.png)
 ![fusion360エクスポート設定2](https://user-images.githubusercontent.com/81402033/122695392-306a1100-d27b-11eb-937d-1841fe562e75.png)
 
