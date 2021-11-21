@@ -36,7 +36,9 @@ ___
 ___
 ### Autodesk Inventor  
 `ファイル`>`書き出し`>`CAD形式`からファイルの種類`.stl`を選択。
-`オプション`を開き、単位を`m`に設定する。  
+`オプション`を開く。  
+単位を`m`に設定する。  
+解像度を最低にする。  
 
 ![inventorエクスポート設定1](https://user-images.githubusercontent.com/81402033/122487989-7c1c8080-d017-11eb-950c-296e27f9d10a.jpg)
 ![inventorエクスポート設定2](https://user-images.githubusercontent.com/81402033/122487993-7de64400-d017-11eb-8537-a356381aa5ee.jpg)
