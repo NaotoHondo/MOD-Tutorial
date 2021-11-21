@@ -18,7 +18,8 @@ CADソフトでモデリングした車両モデルを3DCG系ソフトで扱え�
 下の`オプション`を開き、単位を`m`に設定する。  
 
 ![SOLIDWORKSエクスポート1](https://user-images.githubusercontent.com/81402033/122487977-74f57280-d017-11eb-8f25-f9aef1cc626f.jpg)
-![SOLIDWORKSエクスポート2](https://user-images.githubusercontent.com/81402033/122487979-76bf3600-d017-11eb-854a-5c7fc2c9ca1b.jpg)
+![solidworksエクスポート設定](https://user-images.githubusercontent.com/81402033/142764722-4096aec9-2d8a-4178-b2e5-1844f97669a8.png)
+
 
 ___
 ### Creo  
