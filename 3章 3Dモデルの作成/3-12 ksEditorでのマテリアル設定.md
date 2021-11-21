@@ -4,12 +4,11 @@
 - カラーテクスチャの他にノーマルマップテクスチャも使いたい場合：ksPerPixelNM  
 
 ### マテリアルのパラメータ設定
-マテリアルの基本パラメータについての解説を外部リンクで  
-代表的な材料のマテリアルパラメータの例を表で  
-つるつる金属  
-ざらざら金属  
-つるつるプラスチック  
-ざらざらプラスチック  
+![kseditorマテリアルパラメータ(metal_luster)](https://user-images.githubusercontent.com/81402033/142767352-4d1bc4f7-e8e7-4b23-aaf3-ff60739bfd94.png)
+![kseditorマテリアルパラメータ(metal_matte)](https://user-images.githubusercontent.com/81402033/142767354-27b5e2d6-8f76-485c-8209-633f1c07a83f.png)
+![kseditorマテリアルパラメータ(pla_luster)](https://user-images.githubusercontent.com/81402033/142767358-a5e5fbed-0106-4bf8-9a57-af129a29f9c8.png)
+![kseditorマテリアルパラメータ(pla_matte)](https://user-images.githubusercontent.com/81402033/142767361-f22976dc-0cf9-438e-940f-49c17c3dd54f.png)
+
 
 ### マテリアル設定の保存
 - `File`>`Save Persistence`でマテリアルの設定が保存される．（マテリアル設定情報がかかれた.iniファイルが生成される．
