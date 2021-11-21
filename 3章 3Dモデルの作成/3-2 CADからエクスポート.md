@@ -49,6 +49,7 @@ ___
 `ファイル`>`3Dプリント`  
 右側3Dプリントタブで`選択`、`メッシュを...`にチェック  
 3Dビューポート内でメッシュを選択する。  
+リファインメントオプションで解像度を最低にする。
 ![fusion360エクスポート設定](https://user-images.githubusercontent.com/81402033/122695384-2cd68a00-d27b-11eb-9547-592136f9b100.png)
 ![fusion360エクスポート設定2](https://user-images.githubusercontent.com/81402033/122695392-306a1100-d27b-11eb-937d-1841fe562e75.png)
 
