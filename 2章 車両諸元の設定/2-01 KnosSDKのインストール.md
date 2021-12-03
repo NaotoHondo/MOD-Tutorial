@@ -7,7 +7,7 @@ KnosSDKをインストールし、MODの編集が可能な環境にする。
 >KN5(3Dファイル,テクスチャー)、ACD(車両設定データ)、BANK(音源データ)を再編集可能な形式へ変換・展開するためのツールです。
 AssettoCorsaの挙動設定の仕組みを調べたい時や参考にしたい際にご利用ください。([ACJP LABS](http://labs.assettocorsa.jp/downloads/tools/kunossdk)より引用)
 
-このツールはAssettoCorsa用に変換された3Dファイル、車両諸元設定ファイル、音源データファイルを編集可能な形式へ展開、、編集したファイルを再度AssettoCorsa用の形式に変換することができます。
+このツールはAssettoCorsa用に変換された3Dファイル、車両諸元設定ファイル、音源データファイルを編集可能な形式へ展開、編集したファイルを再度AssettoCorsa用の形式に変換することができます。
 このツールを利用してMODを作成していきます。  
 
 # KnosSDKのインストール
