@@ -1,4 +1,8 @@
 # 3Dモデルの作成
+3章 3Dモデルの作成はbasicパートとadvancedパートに分かれています。  
+- basicパート：最低限のクオリティでCADからAssettoCorsaにコンバートすることを目標にしています。  
+- advancedパート：見た目のクオリティを上げるためのテクニックを紹介しています。サスペンションのを動かす方法等についても記載するかもしれません。  
+
 #### この章で行う作業
 [フォルダ作成](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E4%BD%9C%E6%88%90.md)  
 [CADからエクスポート](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/3-1%20CAD%E3%81%8B%E3%82%89%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88.md)  
