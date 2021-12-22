@@ -3,6 +3,14 @@
 - basicパート：最低限のクオリティでCADからAssettoCorsaにコンバートすることを目標にしています。  
 - advancedパート：見た目のクオリティを上げるためのテクニックを紹介しています。
 
+# 3Dモデル作成の大まかな流れ
+1. 車両をモデリングします。
+1. 色や質感の設定をします。
+1. Assetto Corsaがタイヤやハンドルを動かすためのダミーと呼ばれるオブジェクトを配置してタイヤやハンドルと関連付けます。
+1. Assetto Corsaに対応した形式のファイルにコンバートします。
+以上のように、主に4つの工程に分かれています。
+basicパートで説明している細かい作業は主にAssettoCorsa内での動作負荷を軽減するために行っています。
+
 #### この章で行う作業
 [フォルダ作成](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E4%BD%9C%E6%88%90.md)  
 [CADからエクスポート](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/3-1%20CAD%E3%81%8B%E3%82%89%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88.md)  
