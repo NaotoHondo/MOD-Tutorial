@@ -1,17 +1,20 @@
 # 3Dモデルの作成
-3章 3Dモデルの作成はbasicパートとadvancedパートに分かれています。  
+3章 3Dモデルの作成はbiginnerパート、basicパート、advancedパートの3つのパートに分かれています。
+- biginnerパート：簡易的なモデルを使用して3Dモデル製作の大まかな流れをつかむことを目的としています。
 - basicパート：最低限のクオリティでCADからAssettoCorsaにコンバートすることを目標にしています。  
 - advancedパート：見た目のクオリティを上げるためのテクニックを紹介しています。
 
-# 3Dモデル作成の大まかな流れ
-1. 車両をモデリングします。
-1. 色や質感の設定をします。
-1. Assetto Corsaがタイヤやハンドルを動かすためのダミーと呼ばれるオブジェクトを配置してタイヤやハンドルと関連付けます。
-1. Assetto Corsaに対応した形式のファイルにコンバートします。  
+# 3Dモデル作成の大まかな流れと使用ソフト
+1. 車両をモデリングします。(CAD)
+1. 色や質感の設定をします。(blender)
+1. Assetto Corsaがタイヤやハンドルを動かすためのダミーと呼ばれるオブジェクトを配置してタイヤやハンドルと関連付けます。(blender)
+1. Assetto Corsaに対応した形式のファイルにコンバートします。 (KsEditor) 
 以上のように、主に4つの工程に分かれています。  
-basicパートで説明している細かい作業は主にAssettoCorsa内での動作負荷を軽減するために行っています。
 
-#### この章で行う作業
+#### 目次
+## biginnerパート
+
+## basicパート
 [フォルダ作成](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E4%BD%9C%E6%88%90.md)  
 [CADからエクスポート](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/3-1%20CAD%E3%81%8B%E3%82%89%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88.md)  
 [3Dモデリングソフト(blender)の導入](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/3-2%203D%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%BD%E3%83%95%E3%83%88(blender)%E3%81%AE%E5%B0%8E%E5%85%A5.md)  
@@ -25,5 +28,8 @@ basicパートで説明している細かい作業は主にAssettoCorsa内での
 [ksEditorにインポート](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/KsEditor%E3%81%AB%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88.md)  
 [ksEditorでのマテリアル設定](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/KsEditor%E3%81%A7%E3%81%AE%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E8%A8%AD%E5%AE%9A.md)  
 [ksEditorからエクスポート](https://github.com/JSAE-ARCHIVES/MOD-Tutorial/blob/main/3%E7%AB%A0%203D%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%90/KsEditor%E3%81%8B%E3%82%89%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88.md)  
+
+## advancedパート
+
 
 3Dモデリングソフトの使い方等慣れない作業が多いので重たい章ですが自分でモデリングした車両がassettocorsaで走ると感動するものです．頑張りましょう!
